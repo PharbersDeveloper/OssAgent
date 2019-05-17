@@ -1,0 +1,8 @@
+{
+  "Broker":"59.110.31.50:9092",
+  "SchemaRepositoryUrl":"http://59.110.31.50:8081",
+  "Group":"oss-group",
+  "Topics": [
+    "oss-topic"
+  ]
+}
